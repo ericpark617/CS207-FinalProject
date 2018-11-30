@@ -19,11 +19,11 @@ Dependencies:
 Materials:
 * 1 x laser pointer
 * 1 x photoresistor
-* resistor
+* 1 x 10k resistor
 * wire
 * 1 x Arduino Uno
 * 1 x breadboard
-* 1 x ESP8266 or ESP8266 based Wi-fi module
+* 1 x ESP8266 or ESP8266 based Wi-fi module (such as the NodeMCU I used)
 
 # Build Instructions
 
