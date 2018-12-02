@@ -23,7 +23,7 @@ Materials:
 * 10 x wire
 * 1 x Arduino Uno
 * 1 x breadboard
-* 1 x ESP8266 or ESP8266 based Wi-fi module (such as the NodeMCU I used)
+* 1 x Bluetooth module (HC-05)
 
 # Build Instructions
 
