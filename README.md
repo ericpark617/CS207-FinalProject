@@ -34,3 +34,5 @@ Materials:
 This is a solo project done by Min Kyu Park.
 
 # Credits
+
+* Ian Cumming (hackster.io) - Borrowed code for getting data from photoresistor and printing result.
