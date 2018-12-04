@@ -1,6 +1,6 @@
 # CS207-FinalProject
 
-This project is a device which uses a laser tripwire type mechanism to send a signal to a computer to launch a certain application when the laser is interrupted. I will be using an Arduino Uno and give it Wi-fi capabilities using an ESP8266 based module. The point of this system is to launch any applications that are used daily, whenever the user walks into a room or walks to his/her computer. This is not a very practical system to actually use in real life as it only does one simple action on a computer, but it is just a fun little device to use. The path of the programs all vary, so appropriate changes mucst be made depending on the program to launch and the computer being used.
+This project is a device which uses a laser tripwire type mechanism to send a signal to a computer to launch a certain application when the laser is interrupted. The point of this system is to launch any applications that are used daily, whenever the user walks into a room or walks to his/her computer. This is not a very practical system to actually use in real life as it only does one simple action on a computer, but it is just a fun little device to use. The path of the programs all vary, so appropriate changes mucst be made depending on the program to launch and the computer being used. The original plan was to use wi-fi to send the signal to the PC but this deemed to be out of my capabilities and ended up simply using the Arduino connected to the PC and talk to the serial port over usb.
 
 # Repository Contents
 
@@ -20,10 +20,9 @@ Materials:
 * 1 x laser pointer
 * 1 x photoresistor
 * 1 x 10k resistor
-* 10 x wire
+* 5 x wire
 * 1 x Arduino Uno
 * 1 x breadboard
-* 1 x Bluetooth module (HC-05)
 
 # Build Instructions
 
