@@ -28,6 +28,14 @@ Materials:
 
 # Build Instructions
 
+Schematics of build:
+![My image](https://github.com/ericpark617/CS207-FinalProject/blob/master/img/schematic.JPG)
+
+Breadboard view of build:
+![My image](https://github.com/ericpark617/CS207-FinalProject/blob/master/img/breadboard.JPG)
+
+This is a straight forward build that simply connects a photoresistor to be read using an analog pin on the Arduino Uno.
+
 # Usage
 
 1. Build the circuit based on the diagram provided.
