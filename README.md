@@ -47,13 +47,12 @@ This is a straight forward build that simply connects a photoresistor to be read
 7. Save and leave the program running.
 8. After connecting the Arduino Uno, go into "Settings" and to the "Serial port" menu.
 9. Set the Serial port to the appropriate port and the Baud rate to 9600.
-10. Donwload the " " found in the src.
-11. Modify the ssid and password section in " " to match your network information.
-12. Modify the command name in " " to match the command you created in Gobetwino.
-13. Upload " " onto the Arduino Uno.
-14. Attach a laser pointer to one side of an entrance and the Arduino on the other side.
-15. Make sure the laser is pointing at the photoresistor.
-16. Pass by the laser and the computer will open the program you designated. (PC must be on, and Gobetwino must be running)
+10. Donwload the "Tripwire_Gobetwino.ino" found in the src.
+11. Modify the command name in the code to match the command you created in Gobetwino.
+12. Upload code onto the Arduino Uno.
+13. Attach a laser pointer to one side of an entrance and the Arduino on the other side.
+14. Make sure the laser is pointing at the photoresistor.
+15. Pass by the laser and the computer will open the program you designated. (PC must be on, and Gobetwino must be running)
 
 # Team
 
@@ -62,3 +61,4 @@ This is a solo project done by Min Kyu Park.
 # Credits
 
 * Ian Cumming (hackster.io) - Borrowed code for getting data from photoresistor and printing result.
+* Owner of the mikmo blog - Creator of Gobetwino program.
