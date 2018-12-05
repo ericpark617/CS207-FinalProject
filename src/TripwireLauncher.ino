@@ -27,11 +27,11 @@ void loop()
   }
   //if light is interrupted, serial print command for Gobetwino to read
   if (mode == 1 && state < 800) { 
-      Serial.println("#S|CHROME|[]#");  //Command for Gobetwino (modify according to command created in Gobetwino)
+      Serial.println("#S|OPENNAME|[]#");  //Command for Gobetwino (modify according to command created in Gobetwino)
       delay(2000); //delay to prevent multiple occurences in one trigger
     }
    if (mode == 2 && state < 800){
-      Serial.println("#S|CLOSE|[]#"); //command to close window (set correct path to .bat file)
+      Serial.println("#S|CLOSENAME|[]#"); //command to close window (set correct path to .bat file)
       delay(2000);  //delay to prevent multiple occurences in one trigger
       mode = 0; //reset to first mode
    }
