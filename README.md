@@ -25,6 +25,7 @@ Materials:
 * 5 x wire
 * 1 x Arduino Uno
 * 1 x breadboard
+* 1 x sticky tack or tape
 
 # Build Instructions
 
