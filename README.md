@@ -51,7 +51,7 @@ This is a straight forward build that simply connects a photoresistor to be read
 10. Repeat steps 3 to 6 except this time selecting the Taskkill.bat file in step 6.
 11. After connecting the Arduino Uno, go into "Settings" and to the "Serial port" menu.
 12. Set the Serial port to the appropriate port and the Baud rate to 9600 and close the Gobetwino program.
-13. Donwload the "TripwireLauncher.ino" found in the src.
+13. Download the "TripwireLauncher.ino" found in the src.
 14. Modify the command names in the code to match the command you created in Gobetwino ("CHROME" and "CLOSE" in the sample code).
 15. Upload code onto the Arduino Uno.
 16. Attach a laser pointer to one side of an entrance and the Arduino on the other side making sure the laser is pointing at the photoresistor.
